@@ -50,5 +50,7 @@ group :development do
   gem 'devise', '~> 4.2'
 
   gem 'bootstrap', '~> 4.0.0.beta'
+
+  gem 'farribas_view_tool', git: 'https://github.com/fedearribas/farribas_view_tool'
 end
 
