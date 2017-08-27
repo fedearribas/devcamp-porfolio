@@ -51,6 +51,6 @@ group :development do
 
   gem 'bootstrap', '~> 4.0.0.beta'
 
-  gem 'farribas_view_tool', git: 'https://github.com/fedearribas/farribas_view_tool'
+  gem 'farribas_view_tool', '~> 0.1.0'
 end
 
