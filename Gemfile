@@ -52,5 +52,6 @@ group :development do
   gem 'bootstrap', '~> 4.0.0.beta'
 
   gem 'farribas_view_tool', '~> 0.1.0'
+  gem 'petergate', '~> 1.7', '>= 1.7.5'
 end
 
