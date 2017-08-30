@@ -217,7 +217,7 @@ DEPENDENCIES
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  kaminari (~> 1.0, >= 1.0.1)
+  kaminari
   petergate (~> 1.7, >= 1.7.5)
   pg
   pry-byebug
