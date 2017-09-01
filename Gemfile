@@ -61,5 +61,6 @@ group :development do
   gem 'carrierwave-aws'
   gem 'dotenv-rails'
   gem 'cocoon', '~> 1.2', '>= 1.2.10'
+  gem 'gritter', '~> 1.2'
 end
 
