@@ -56,5 +56,9 @@ group :development do
   gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
   gem 'kaminari'
   gem 'jquery-ui-rails'
+  gem 'carrierwave'
+  gem 'mini_magick'
+  gem 'carrierwave-aws'
+  gem 'dotenv-rails'
 end
 
