@@ -60,5 +60,6 @@ group :development do
   gem 'mini_magick'
   gem 'carrierwave-aws'
   gem 'dotenv-rails'
+  gem 'cocoon', '~> 1.2', '>= 1.2.10'
 end
 
